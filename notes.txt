@@ -1,0 +1,10 @@
+JavaScript Introduuction:
+
+  - Multi-platform language
+  - Umity support
+  - TypeScript is a super set
+  - Native Application with CORDOVA
+  - Electron
+  - Server Side: NodeJs
+
+In course: Develop software using JavaScript.
